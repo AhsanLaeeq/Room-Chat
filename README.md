@@ -6,7 +6,8 @@ This app supports **room-based chat with password protection**, **typing indicat
 ---
 
 ## 🚀 Live Demo  
-🔗 [Room Chat App](https://ahsanlaeeq.github.io/Room-Chat/)  
+🔗 [Room Chat App (Preview)](https://ahsanlaeeq.github.io/Room-Chat/)  
+🔗 [Room Chat Backend (GitHub Repo)](https://github.com/AhsanLaeeq/Room-Chat-Backend)  
 
 ---
 
@@ -33,6 +34,7 @@ This app supports **room-based chat with password protection**, **typing indicat
 - Socket.IO  
 - CORS enabled  
 - Hosted on Replit  
+- Source code: [Room Chat Backend Repo](https://github.com/AhsanLaeeq/Room-Chat-Backend)  
 
 ---
 
@@ -82,12 +84,13 @@ Frontend runs on **[http://localhost:5173](http://localhost:5173)**
 
 * **Frontend:** GitHub Pages → [Room Chat App](https://ahsanlaeeq.github.io/Room-Chat/)
 * **Backend:** Replit → Public URL generated (used by frontend for Socket.IO connection)
+* **Backend Source:** [Room Chat Backend](https://github.com/AhsanLaeeq/Room-Chat-Backend)
 
 ---
 
 ## 📸 Screenshots
 
-> *You can add screenshots or GIFs of your chat UI here!*
+> *Add screenshots or GIFs of your chat UI here!*
 
 ---
 
@@ -101,9 +104,5 @@ Frontend runs on **[http://localhost:5173](http://localhost:5173)**
 ---
 
 ⭐ If you like this project, give it a star on GitHub!
-
-```
-
----
 
 
