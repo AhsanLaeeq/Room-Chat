@@ -90,7 +90,10 @@ Frontend runs on **[http://localhost:5173](http://localhost:5173)**
 
 ## 📸 Screenshots
 
-> *Add screenshots or GIFs of your chat UI here!*
+> *<img width="443" height="412" alt="image" src="https://github.com/user-attachments/assets/2bc5f2f2-6737-4eca-8b82-20ea214e988d" />
+e!*
+> <img width="217" height="487" alt="image" src="https://github.com/user-attachments/assets/649857a4-6baa-4c97-8f6c-2cdd5012e38c" />
+
 
 ---
 
